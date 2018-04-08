@@ -1,0 +1,218 @@
+
+
+  h1 {
+    color: white;
+    font-family: 'Alegreya', serif;
+    font-weight: 700;
+    line-height: 46px;
+    font-size: 62px;
+    margin: 43px 0 43px 0;
+    text-align: center;
+    }
+  h2 {
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    line-height: 46px;
+    font-size: 42px;
+    margin: 43px 45px 43px 45px;
+    text-align: center;
+    }
+  h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: black;
+    font-size: 22px;
+    line-height: 23px;
+    margin: 0px 45px 23px 45px;
+    }
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: black;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 45px 23px 45px;
+    }
+  h6 {
+    position: absolute;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0 0 23px 0;
+  }
+
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 45px 23px 45px;
+    }
+
+
+    .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+  }
+
+  li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 45px 23px 45px;
+  }
+
+
+  li {
+    float: left;
+  }
+  li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+  li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+  a:link{
+    color: black;
+    text-decoration: none;
+  }
+
+    .outer_container{
+      border: 3px solid #ffffff;
+      background-color: #ffffff;
+      align-items: center;
+      justify-content: center;
+      width: 80%;
+      margin: auto;
+    }
+    .hero {
+      Background-image: url(./images/communication.jpg);
+      background-size: cover;
+      text-align: center;
+  	  color: white;
+  	  padding:50px;
+    }
+
+    .hero-text{
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
+        line-height: 23px;
+        margin: 0 0 23px 0;
+        }
+
+    .container{
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+    }
+
+    .jobs{
+      background-color: #ffffff;
+      position: relative;
+      opacity: 0.5;
+      }
+    .jobs:hover{
+      opacity: 1;
+    }
+
+    .jobs-img{
+      width:100%;
+	    height:100%;
+      Position: absolute;
+     	top: 0;
+
+	    Display: flex;
+	    align-items: center;
+	    justify-content: center;
+	     }
+
+    .jobs-text{
+      color: #293756;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-weight: normal;
+      font-size: 21px;
+      line-height: 23px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin: 0 0 23px 0;
+      text-align: center;
+    }
+
+      .header-container{
+      	width:100%;
+      	height:100%;
+      	Position: absolute;
+      	top: 0;
+
+      	Display: fler;
+      	align-items: center;
+      	justify-content: center;
+      	}
+
+      .work-heading {
+      Color: white;
+      }
+
+    .first{
+      color: #f44242;
+      }
+
+    .me-resize{
+      height: 200px;
+      width: 200px;
+      margin: 25px;
+      border-radius: 50%;
+      }
+
+    .camping-resize{
+      max-width: 100%;
+      height: auto;
+      }
+    .education-resize {
+      max-width: 100%;
+      height: auto;
+    }
+    .computor-resize {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .container-projects{
+      display: flex;
+      align-items: center;
+      margin: 45px;
+    }
+
+    .projects{
+      position: relative;
+      align-items: flex-start;
+      justify-content: flex-start;
+      text-align: left;
+    }
+
+    .work-example{
+      max-width: 50%;
+
+    }
