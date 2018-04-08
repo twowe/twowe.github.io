@@ -15,7 +15,7 @@
     font-weight: 700;
     line-height: 46px;
     font-size: 42px;
-    margin: 43px 45px 43px 45px;
+    margin: 43px 200px 43px 200px;
     text-align: center;
     }
   h3 {
@@ -23,14 +23,14 @@
     font-weight: black;
     font-size: 22px;
     line-height: 23px;
-    margin: 0px 45px 23px 45px;
+    margin: 35px 200px 35px 200px;
     }
   h4 {
     font-family: 'Roboto', sans-serif;
     font-weight: black;
     font-size: 15px;
     line-height: 23px;
-    margin: 0 45px 23px 45px;
+    margin: 0 200px 23px 200px;
     }
   h6 {
     position: absolute;
@@ -48,7 +48,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     line-height: 23px;
-    margin: 0 45px 23px 45px;
+    margin: 0 200px 23px 200px;
     }
 
     .menu {
@@ -221,6 +221,6 @@
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     line-height: 23px;
-    margin: 35px 100px 35px 100px;
-    text-align: center;
+    margin: 35px 200px 35px 200px;
+    text-align: left;
     }
