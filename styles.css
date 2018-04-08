@@ -93,6 +93,13 @@
 
   a:link{
     color: black;
+    text-decoration:none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  a:after{
+    color: black;
     text-decoration: none;
   }
 
@@ -144,7 +151,7 @@
       }
 
     .jobs-text{
-      color: #293756;
+      color: black;
       font-family: 'Roboto Condensed', sans-serif;
       font-weight: normal;
       font-size: 21px;
