@@ -135,10 +135,10 @@
     .jobs-img{
       width:100%;
 	    height:100%;
-      Position: absolute;
+      position: absolute;
      	top: 0;
 
-	    Display: flex;
+	    display: flex;
 	    align-items: center;
 	    justify-content: center;
       }
@@ -187,7 +187,7 @@
       opacity: 0.5;
     }
 
-    .computor-resize:hover{
+    a:hover .computor-resize {
       opacity: 1;
     }
 
