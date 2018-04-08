@@ -224,3 +224,11 @@
     margin: 35px 200px 35px 200px;
     text-align: left;
     }
+
+    .made-by{
+      font-family: 'Roboto', sans-serif;
+      font-size: 8px;
+      line-height: 23px;
+      margin: 35px 200px 35px 200px;
+      text-align: center;
+      }
