@@ -51,7 +51,6 @@
     margin: 0 45px 23px 45px;
     }
 
-
     .menu {
     list-style-type: none;
     margin: 0;
@@ -62,6 +61,8 @@
     justify-content: center;
     justify-content: space-evenly;
   }
+
+
 
   li{
     font-family: 'Roboto', sans-serif;
@@ -117,7 +118,7 @@
     .hero-text{
         color: white;
         font-family: 'Roboto', sans-serif;
-        font-size: 15px;
+        font-size: 25px;
         line-height: 23px;
         margin: 0 0 23px 0;
         }
@@ -214,5 +215,12 @@
 
     .work-example{
       max-width: 50%;
+    }
 
+    .info-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 35px 100px 35px 100px;
+    text-align: center;
     }
